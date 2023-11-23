@@ -14,5 +14,10 @@
     "nuxt": "^3.8.2",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "cookie-universal-nuxt": "^2.2.2",
+    "vuex-persistedstate": "^4.1.0"
   }
 }
